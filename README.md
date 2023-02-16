@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matin Abaszada</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center" style="color: green; margin-bottom: 200px;">A passionate frontend developer from Azerbaijan</h3>
+<img align="right" alt="Coder GIF" height=250 width=350 style="margin: 20px;" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metinabaszade&label=Profile%20views&color=0e75b6&style=flat" alt="metinabaszade" /> </p>
 
@@ -8,6 +9,8 @@
 - 💬 Ask me about **C#, JS, MSSQL, PHP, Azure**
 
 - 📫 How to reach me **metin.abaszade@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
