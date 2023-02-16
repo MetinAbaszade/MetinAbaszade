@@ -31,3 +31,5 @@
 
 <p align="center"><img align="center" width=50% src="https://github-readme-streak-stats.herokuapp.com?user=metinabaszade&theme=github-dark-blue" alt="metinabaszade" /></p>
 
+<p align="center">&nbsp;<img align="center" width=90% src="https://user-images.githubusercontent.com/81882048/219341916-30f2a826-fddd-4703-b2a0-d41bfb62c753.svg" alt="metinabaszade_snake" /></p>
+
