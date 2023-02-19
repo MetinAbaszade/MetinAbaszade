@@ -1,44 +1,32 @@
 <head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
-<body>
+# Hi 👋, I'm Matin Abaszada
+### A passionate full-stack developer from Azerbaijan
 
+<br>
 
-    <h1 align="center">Hi 👋, I'm Matin Abaszada</h1>
-    <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
-    </br>
+<div id="aboutdiv">
+- 🌱 I’m currently learning **Redis**
+- 💬 Ask me about **C#, JS, MSSQL, PHP, Azure**
+- 📫 How to reach me **metin.abaszade@gmail.com**
+</div>
 
-    <img align="right" alt="Coder GIF" height=250 width=350
-        src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+### Connect with me:
 
-    <div id="aboutdiv">
-        <p> - 🌱 I’m currently learning **Redis** </p>
+<p>
+<a href="https://www.linkedin.com/in/m%C9%99tin-abaszad%C9%99-b99291210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mətin abaszadə" height="30" width="40"></a>
+<a href="https://stackoverflow.com/users/14888525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14888525" height="30" width="40"></a>
+<a href="https://instagram.com/_justmatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_justmatin" height="30" width="40"></a>
+<a href="https://www.youtube.com/@matinabaszada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="matinabaszada" height="30" width="40"></a>
+</p>
 
-        <p> - 💬 Ask me about **C#, JS, MSSQL, PHP, Azure** </p>
+### Languages and Tools:
 
-        <p> - 📫 How to reach me **metin.abaszade@gmail.com** </p>
-    </div>
-
-
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://www.linkedin.com/in/m%C9%99tin-abaszad%C9%99-b99291210/" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="mətin abaszadə" height="30" width="40" /></a>
-        <a href="https://stackoverflow.com/users/14888525" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                alt="14888525" height="30" width="40" /></a>
-        <a href="https://instagram.com/_justmatin" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                alt="_justmatin" height="30" width="40" /></a>
-        <a href="https://www.youtube.com/@matinabaszada" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-                alt="matinabaszada" height="30" width="40" /></a>
-    </p>
-
-    <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Languages and Tools:</h3>
     <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
                 src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
         </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
@@ -100,29 +88,18 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
                 width="40" height="40" /> </a> </p>
 
+<div class="flexcontainer">
+    <img id="specialdata1" class="specialdata" src="https://github-readme-stats.vercel.app/api/top-langs?username=metinabaszade&amp;theme=transparent&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="metinabaszade" />
 
-    <div class="flexcontainer">
-        <img id="specialdata1" class="specialdata"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=metinabaszade&theme=transparent&show_icons=true&locale=en&layout=compact"
-            alt="metinabaszade" />
+    <img id="specialdata2" class="specialdata" src="https://github-readme-stats.vercel.app/api?username=metinabaszade&amp;theme=transparent&amp;show_icons=true&amp;locale=en" alt="metinabaszade" />
+</div>
 
-        <img id="specialdata2" class="specialdata"
-            src="https://github-readme-stats.vercel.app/api?username=metinabaszade&theme=transparent&show_icons=true&locale=en"
-            alt="metinabaszade" />
-    </div>
+</br>
 
-    </br>
+<div class="flexcontainer">
+    <img align="center" id="specialdata3" src="https://github-readme-streak-stats.herokuapp.com?user=metinabaszade&amp;theme=github-dark-blue" alt="metinabaszade" />
+</div>
 
-    <div class="flexcontainer">
-    <img align="center" id="specialdata3"
-        src="https://github-readme-streak-stats.herokuapp.com?user=metinabaszade&theme=github-dark-blue"
-        alt="metinabaszade" />
-        </div>
-
-    <p align="center">&nbsp;
-        <img align="center" width=90%
-            src="https://user-images.githubusercontent.com/81882048/219341916-30f2a826-fddd-4703-b2a0-d41bfb62c753.svg"
-            alt="metinabaszade_snake" />
-    </p>
-
-</body>
+<p align="center">&nbsp;
+    <img align="center" width=90% src="https://user-images.githubusercontent.com/81882048/219341916-30f2a826-fddd-4703-b2a0-d41bfb62c753.svg" alt="metinabaszade_snake" />
+</p>
