@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redis**
 
-- 💬 Ask me about **C#, JS, MSSQL, PHP, Azure**
+- 💬 Ask me about **C#, C++, JS, SQL, PHP, Azure**
 
 - 📫 How to reach me **metin.abaszade@gmail.com**
 
